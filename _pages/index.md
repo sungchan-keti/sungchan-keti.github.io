@@ -2,29 +2,28 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: Sungchan Choi
 ---
 
-## What is it?
+## Researcher at KETI
 
 {% include components/intro.md %}
 
-[Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
+## Current Focus
 
-## How to use it
+- IoT platforms and service interoperability
+- Embedded software for connected systems
+- Smart environments and intelligent digital services
+- Applied system design for real-world deployment
 
-This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
+## Selected Highlights
 
-[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
+- Research on standard-based IoT and oneM2M interoperability for scalable connected services
+- Work on connected farm architectures for smart agriculture and device-to-service integration
+- Experience building practical software systems that connect sensors, platforms, and applications
 
-[The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
+## About This Site
 
-<hr />
+This website is a concise English introduction to Sungchan Choi's background and selected work at KETI.
 
-### Recent Posts
-
-{% for post in site.posts limit:3 %}
-{% include components/post-card.html %}
-{% endfor %}
-
-
+[Read more on the About page.]({{ site.baseurl }}{% link _pages/about.md %})
